@@ -1,0 +1,10 @@
+
+Path to VLC|windows
+
+        "%PROGRAMFILES%\VideoLAN\VLC\vlc.exe" 
+
+
+Path to VLC|linux
+
+        vlc
+
